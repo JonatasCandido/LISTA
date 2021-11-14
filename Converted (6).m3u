@@ -1,0 +1,859 @@
+#EXTM3U
+#EXTINF:0 tvg-id="Globorj.br" group-title="tv aberta",GLOBO RJ HD
+https://stmv3.samcast.com.br/jose5122/jose5122/chunklist_w541114289.m3u8
+#EXTINF:0 tvg-id="Globorj.br" group-title="tv aberta",GLOBO RJ SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37091
+#EXTINF:0 tvg-id="Globorj.br" group-title="tv aberta",GLOBO RJ HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36968
+#EXTINF:0 tvg-id="Globorj.br" group-title="tv aberta",GLOBO RJ FHD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/38425
+#EXTINF:0 tvg-id="Redetv.br" group-title="tv aberta",REDE TV SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37012
+#EXTINF:0 tvg-id="Redetv.br" group-title="tv aberta",REDE TV HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36946
+#EXTINF:0 tvg-id="Redetv.br" group-title="tv aberta",REDE TV FHD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/41518
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",BAND RJ HD OPÇ 1
+http://tv.factoryiptv.com:80/cassia123/cassia1234/62088
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",BAND RJ HD OPÇ 2
+http://168.205.87.198:8555/live/123456/123456/19.m3u8
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",BAND SP HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37127
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",RECORD RIO - RJ SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/42637
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",RECORD RIO HD
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",RECORD RIO HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/63721
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",RECORD SP HD
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-b.m3u8
+#EXTINF:0 tvg-id="Recordsp.br" group-title="tv aberta",RECORD SP SD
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",SBT RJ HD
+https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/chunklist_w775539171.m3u8
+#EXTINF:0 tvg-id="Sbt.br" group-title="tv aberta",SBT HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36945
+#EXTINF:0 tvg-id="Sbt.br" group-title="tv aberta",SBT SD
+https://5a1c76baf08c0.streamlock.net/sbtinterior/N7W3PajeirMQEqDVqf3xKgk/chunklist_w257045912.m3u8
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",TV CULTURA HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/40073
+#EXTINF:0 tvg-id="Futura.br" group-title="tv aberta",FUTURA SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/40074
+#EXTINF:0 tvg-id="Futura.br" group-title="tv aberta",FUTURA HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/68530
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",MAIS NA TELA HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/73453
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",TV VIDEOS NEWS SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/57777
+#EXTINF:0 tvg-id="Tvbrasil.br" group-title="tv aberta",TV BRASIL SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/63632
+#EXTINF:0 tvg-id="Globonews.br" group-title="tv aberta",GLOBO NEWS SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37093
+#EXTINF:0 tvg-id="Globonewshd.br" group-title="tv aberta",GLOBO NEWS HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36917
+#EXTINF:0 tvg-id="RecordNews.pt" group-title="tv aberta",RECORD NEWS SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37050
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",RECORD NEWS HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37050
+#EXTINF:0 tvg-id="Bandnews.br" group-title="tv aberta",BAND NEWS SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37126
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",BAND NEWS HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/42411
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",31 CNN BRASIL HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/65039
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",CBN RIO Radio
+https://medias.sgr.globo.com/hls/aCBNRJ/aCBNRJ.m3u8
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",TV SUPER GOSPEL HD
+https://srv4.zcast.com.br/tvgospel/tvgospel/chunklist_w1559838236.m3u8
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",GOSPEL CARTOON
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w60051140.m3u8
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",GOSPEL MUSIC SHOWS
+https://stmv1.srvif.com/gmusic/gmusic/chunklist_w287858804.m3u8
+#EXTINF:0 tvg-id="Fishtv.br" group-title="tv aberta",FISH TV HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",ALL SPORTS HD
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w188304119.m3u8
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",RED BULL TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",FITE HD
+https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",WOOHOO  HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36899
+#EXTINF:0 tvg-id="TLC.uk" group-title="tv aberta",TLC HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36902
+#EXTINF:0 tvg-id="Lifetime.uk" group-title="tv aberta",LIFETIME HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36914
+#EXTINF:0 tvg-id="FoodNetwork.uk" group-title="tv aberta",FOOD NETWORK HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36919
+#EXTINF:0 tvg-id="E.uk" group-title="tv aberta",E! HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36920
+#EXTINF:0 tvg-id="Viva.br" group-title="tv aberta",VIVA HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36931
+#EXTINF:0 tvg-id="TBSHD.us" group-title="tv aberta",TBS HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36940
+#EXTINF:0 tvg-id="Off.br" group-title="tv aberta",OFF HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36954
+#EXTINF:0 tvg-id="Multishow.br" group-title="tv aberta",MULTISHOW HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36957
+#EXTINF:0 tvg-id="Gnthd.br" group-title="tv aberta",GNT HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36967
+#EXTINF:0 tvg-id="Bishd.br" group-title="tv aberta",BIS HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36988
+#EXTINF:0 tvg-id="SmithsonianChannelHD.us" group-title="tv aberta",SMITHSONIAN CHANNEL HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/57387
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",ARTE 1 HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/63637
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",CURTA! HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/63646
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",TV SENADO HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/63665
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",DOG TV H265
+http://tv.factoryiptv.com:80/cassia123/cassia1234/63767
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",FASHION TV BRASIL HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/63769
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",SHOPTIME  HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/63783
+#EXTINF:0 tvg-id="DiscoveryScience.uk" group-title="tv aberta",DISCOVERY SCIENCE SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36922
+#EXTINF:0 tvg-id="DiscoveryScience.uk" group-title="tv aberta",DISCOVERY SCIENCE HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/51002
+#EXTINF:0 tvg-id="HGTV.us" group-title="tv aberta",HGTV SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/63272
+#EXTINF:0 tvg-id="HGTV.pl" group-title="tv aberta",HGTV HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36924
+#EXTINF:0 tvg-id="natgeowild" group-title="tv aberta",NATGEO WILD SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37066
+#EXTINF:0 tvg-id="NatGeoWild.it" group-title="tv aberta",NATGEO WILD HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36955
+#EXTINF:0 tvg-id="Investigacaodiscoveryid.br" group-title="tv aberta",INVESTIGAÇÃO DISCOVERY SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37114
+#EXTINF:0 tvg-id="Investigacaodiscoveryid.br" group-title="tv aberta",INVESTIGAÇÃO DISCOVERY HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36959
+#EXTINF:0 tvg-id="History.uk" group-title="tv aberta",HISTORY CHANNEL SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37081
+#EXTINF:0 tvg-id="HistoryHD.eur" group-title="tv aberta",HISTORY CHANNEL HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36960
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",HISTORY CHANNEL 2 SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/42915
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",HISTORY CHANNEL 2 HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36961
+#EXTINF:0 tvg-id="Discovery.uk" group-title="tv aberta",DISCOVERY WORLD SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/64498
+#EXTINF:0 tvg-id="DiscoveryWorldHD.pe" group-title="tv aberta",DISCOVERY WORLD HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36981
+#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="tv aberta",DISCOVERY TURBO SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37112
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="tv aberta",DISCOVERY TURBO HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36982
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="tv aberta",DISCOVERY THEATER SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/51007
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="tv aberta",DISCOVERY THEATER HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36983
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="tv aberta",DISCOVERY H&H SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36984
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",DISCOVERY H&H HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37115
+#EXTINF:0 tvg-id="Discovery.uk" group-title="tv aberta",DISCOVERY CHANNEL SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37116
+#EXTINF:0 tvg-id="Discovery.uk" group-title="tv aberta",DISCOVERY CHANNEL HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36985
+#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="tv aberta",ANIMAL PLANET SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37128
+#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="tv aberta",ANIMAL PLANET HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36992
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",CINE AÇÃO MP 1
+http://tv.factoryiptv.com:80/cassia123/cassia1234/68468
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",CINE AÇÃO MP 2
+http://tv.factoryiptv.com:80/cassia123/cassia1234/68469
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",CINE AÇÃO MP 3
+http://tv.factoryiptv.com:80/cassia123/cassia1234/68470
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",CINE AÇÃO MP 4
+http://tv.factoryiptv.com:80/cassia123/cassia1234/68471
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",CINE AÇÃO MP 5
+http://tv.factoryiptv.com:80/cassia123/cassia1234/68472
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",CINE COMÉDIA MP 1
+http://tv.factoryiptv.com:80/cassia123/cassia1234/69164
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",CINE COMÉDIA MP 2
+http://tv.factoryiptv.com:80/cassia123/cassia1234/69165
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",CINE COMÉDIA MP 3
+http://tv.factoryiptv.com:80/cassia123/cassia1234/69166
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",CINE COMÉDIA MP 4
+http://tv.factoryiptv.com:80/cassia123/cassia1234/69167
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",CINE COMÉDIA MP 5
+http://tv.factoryiptv.com:80/cassia123/cassia1234/69169
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",CINE TERROR MP 1
+http://tv.factoryiptv.com:80/cassia123/cassia1234/69168
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",CINE TERROR MP 2
+http://tv.factoryiptv.com:80/cassia123/cassia1234/69170
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",CINE TERROR MP 3
+http://tv.factoryiptv.com:80/cassia123/cassia1234/69172
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",CINE TERROR MP 4
+http://tv.factoryiptv.com:80/cassia123/cassia1234/69173
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",CINE TERROR MP 5
+http://tv.factoryiptv.com:80/cassia123/cassia1234/69171
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",CINE DRAMA MP 1
+http://tv.factoryiptv.com:80/cassia123/cassia1234/69589
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",CINE DRAMA MP 2
+http://tv.factoryiptv.com:80/cassia123/cassia1234/69587
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",CINE DRAMA MP 3
+http://tv.factoryiptv.com:80/cassia123/cassia1234/69588
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",CINE DRAMA MP 4
+http://tv.factoryiptv.com:80/cassia123/cassia1234/69590
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",CINE DRAMA MP 5
+http://tv.factoryiptv.com:80/cassia123/cassia1234/69923
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",CINE MARVEL MP 1
+http://tv.factoryiptv.com:80/cassia123/cassia1234/69924
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",CINE MARVEL MP 2
+http://tv.factoryiptv.com:80/cassia123/cassia1234/71075
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",CINE MARVEL MP 3
+http://tv.factoryiptv.com:80/cassia123/cassia1234/71077
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",CINE MARVEL MP 4
+http://tv.factoryiptv.com:80/cassia123/cassia1234/71079
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",CINE MARVEL MP 5
+http://tv.factoryiptv.com:80/cassia123/cassia1234/71076
+#EXTINF:0 tvg-id="AMC.uk" group-title="tv aberta",AMC SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/41087
+#EXTINF:0 tvg-id="AMC.uk" group-title="tv aberta",AMC HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36928
+#EXTINF:0 tvg-id="AXN.bg" group-title="tv aberta",AXN SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37132
+#EXTINF:0 tvg-id="AXN.it" group-title="tv aberta",AXN HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36991
+#EXTINF:0 tvg-id="AE.ca" group-title="tv aberta",A&E SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37130
+#EXTINF:0 tvg-id="Aehd.br" group-title="tv aberta",A&E HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36929
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="tv aberta",CINEMAX SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37120
+#EXTINF:0 tvg-id="CineMAX.ro" group-title="tv aberta",CINEMAX HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36926
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",FILM &amp; ARTS SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/41374
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",FILMS&ARTS HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/68536
+#EXTINF:0 tvg-id="FX.uk" group-title="tv aberta",FX SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37097
+#EXTINF:0 tvg-id="FXHD.mx" group-title="tv aberta",FX HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36969
+#EXTINF:0 tvg-id="Megapix.br" group-title="tv aberta",MEGAPIX SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37072
+#EXTINF:0 tvg-id="Megapix.br" group-title="tv aberta",MEGAPIX HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36958
+#EXTINF:0 tvg-id="HBO1.nl" group-title="tv aberta",HBO 1 SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/65114
+#EXTINF:0 tvg-id="HBO1.nl" group-title="tv aberta",HBO 1 HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36964
+#EXTINF:0 tvg-id="HBO2.cz" group-title="tv aberta",HBO 2 SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37086
+#EXTINF:0 tvg-id="HBO2.pl" group-title="tv aberta",HBO 2 HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36966
+#EXTINF:0 tvg-id="Maxup.br" group-title="tv aberta",HBO POP SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37073
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",HBO POP HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36911
+#EXTINF:0 tvg-id="Maxprime.br" group-title="tv aberta",HBO XTREME SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37076
+#EXTINF:0 tvg-id="Maxprimehd.br" group-title="tv aberta",HBO XTREME HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36912
+#EXTINF:0 tvg-id="Max.br" group-title="tv aberta",HBO MUNDI SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37076
+#EXTINF:0 tvg-id="Maxhd.br" group-title="tv aberta",HBO MUNDI HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36913
+#EXTINF:0 tvg-id="HBOSignature.mx" group-title="tv aberta",HBO SIGNATURE SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37082
+#EXTINF:0 tvg-id="HBOSignature.us" group-title="tv aberta",HBO SIGNATURE HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36962
+#EXTINF:0 tvg-id="Hboplus.br" group-title="tv aberta",HBO PLUS SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37084
+#EXTINF:0 tvg-id="Hboplushd.br" group-title="tv aberta",HBO PLUS HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36963
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="tv aberta",HBO FAMILY SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37085
+#EXTINF:0 tvg-id="HBOFamilyHD.cl" group-title="tv aberta",HBO FAMILY HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36965
+#EXTINF:0 tvg-id="TCM.uk" group-title="tv aberta",TCM SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37037
+#EXTINF:0 tvg-id="TCM.uk" group-title="tv aberta",TCM HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/63644
+#EXTINF:0 tvg-id="tnt" group-title="tv aberta",TNT SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37035
+#EXTINF:0 tvg-id="TNTPolska.pl" group-title="tv aberta",TNT HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36934
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="tv aberta",TNT SERIES SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37034
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="tv aberta",TNT SERIES HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36933
+#EXTINF:0 tvg-id="Tccult.br" group-title="tv aberta",TELECINE CULT SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37039
+#EXTINF:0 tvg-id="Tcculthd.br" group-title="tv aberta",TELECINE CULT HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36901
+#EXTINF:0 tvg-id="Tctouch.br" group-title="tv aberta",TELECINE TOUCH SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36995
+#EXTINF:0 tvg-id="Tctouchhd.br" group-title="tv aberta",TELECINE TOUCH HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36935
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="tv aberta",TELECINE PREMIUM SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36994
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="tv aberta",TELECINE PREMIUM HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36936
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="tv aberta",TELECINE PIPOCA SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37038
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="tv aberta",TELECINE PIPOCA HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36937
+#EXTINF:0 tvg-id="Tcfun.br" group-title="tv aberta",TELECINE FUN SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37005
+#EXTINF:0 tvg-id="Telecinefunhd.br" group-title="tv aberta",TELECINE FUN HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36938
+#EXTINF:0 tvg-id="Tcaction.br" group-title="tv aberta",TELECINE ACTION SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37040
+#EXTINF:0 tvg-id="Tcaction.br" group-title="tv aberta",TELECINE ACTION HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36939
+#EXTINF:0 tvg-id="StudioUniversal.it" group-title="tv aberta",STUDIO UNIVERSAL SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37043
+#EXTINF:0 tvg-id="StudioUniversalHD.cl" group-title="tv aberta",STUDIO UNIVERSAL HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36904
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="tv aberta",SYFY SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37042
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="tv aberta",SYFY HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36903
+#EXTINF:0 tvg-id="Space.br" group-title="tv aberta",SPACE SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37046
+#EXTINF:0 tvg-id="SpaceHD.mx" group-title="tv aberta",SPACE HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36944
+#EXTINF:0 tvg-id="otr" group-title="tv aberta",STAR CHANNEL SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37101
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",STAR CHANNEL HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36972
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",STAR LIFE HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36918
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",STAR HITS SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37335
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",STAR HITS HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36974
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",STAR HITS 2 SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36973
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",STAR HITS 2 HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36973
+#EXTINF:0 tvg-id="SonyCrimeChannel.uk" group-title="tv aberta",SONY CHANNEL SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37007
+#EXTINF:0 tvg-id="SonyCrimeChannel.uk" group-title="tv aberta",SONY CHANNEL HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36987
+#EXTINF:0 tvg-id="Paramount.uk" group-title="tv aberta",PARAMOUNT CHANNEL SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37062
+#EXTINF:0 tvg-id="paramount" group-title="tv aberta",PARAMOUNT CHANNEL HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36953
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",PRIME BOX BRASIL SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37053
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",PRIME BOX BRASIL HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/68532
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",UNIVERSAL TV SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37027
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",UNIVERSAL TV HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/3693
+#EXTINF:0 tvg-id="WarnerChannel.mx" group-title="tv aberta",WARNER CHANNEL SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/37101
+#EXTINF:0 tvg-id="WarnerChannelHD.ar" group-title="tv aberta",WARNER CHANNEL HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36930
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",BONS TEMPOS TV
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",TV SERIES 4
+https://stmv1.srvif.com/tvserie4/tvserie4/chunklist_w706432993.m3u8
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",TV SERIES 5
+https://stmv1.srvif.com/tvserie5/tvserie5/chunklist_w322523533.m3u8
+#EXTINF:0 tvg-id="TVSeries.pt" group-title="tv aberta",TV SERIES
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w1832855757.m3u8
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",CANAL 29 DESENHOS
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1450196991.m3u8
+#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="tv aberta",NICK HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36907
+#EXTINF:0 tvg-id="NickJrHD.us" group-title="tv aberta",NICK JR HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36908
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",NATGEO KIDS HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36909
+#EXTINF:0 tvg-id="Gloobhd.br" group-title="tv aberta",GLOOB HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36915
+#EXTINF:0 tvg-id="Disney.uk" group-title="tv aberta",DISNEY CHANNEL HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36921
+#EXTINF:0 tvg-id="DiscoveryKidsHD.pe" group-title="tv aberta",DISCOVERY KIDS HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36923
+#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="tv aberta",CARTOON NETWORK HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36927
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",GLOOBINHO HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/38969
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="tv aberta",DISNEY JUNIOR HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/40517
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",PLAYKIDS HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/41359
+#EXTINF:0 tvg-id="DisneyXD.uk" group-title="tv aberta",DISNEY XD HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/50717
+#EXTINF:0 tvg-id="Boomerang.uk" group-title="tv aberta",BOOMERANG HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/63627
+#EXTINF:0 tvg-id="BabyTV.uk" group-title="tv aberta",BABY TV SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/63634
+#EXTINF:0 tvg-id="Tooncast.ar" group-title="tv aberta",TOONCAST HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/63647
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",TV RATIMBUM HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/63786
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",CINE INFANTIL MP 1
+http://tv.factoryiptv.com:80/cassia123/cassia1234/69582
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",CINE INFANTIL MP 2
+http://tv.factoryiptv.com:80/cassia123/cassia1234/69583
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",CINE INFANTIL MP 3
+http://tv.factoryiptv.com:80/cassia123/cassia1234/69584
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",CINE INFANTIL MP 4
+http://tv.factoryiptv.com:80/cassia123/cassia1234/69585
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",CINE INFANTIL MP 5
+http://tv.factoryiptv.com:80/cassia123/cassia1234/69586
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",ANIME TV
+https://stmv1.srvif.com/animetv/animetv/chunklist_w156828718.m3u8
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",RETRO CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w498278998.m3u8
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",RETRO CARTOON 2
+https://stmv1.srvif.com/retrotv2/retrotv2/chunklist_w1246852173.m3u8
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",JETSONS TV
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w334105026.m3u8
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",PLUTO TV ANIMESTATION
+https://stmv.video.expressolider.com.br/animestation1/animestation1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",PLUTO TV CINE CLASSICOS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",PLUTO TV CINE DRAMA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",PLUTO TV CINE SUSPENSE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",PLUTO TV CINE FAMILIA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",PLUTO TV CINE ROMANCE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",PLUTO TV CINE SUCESSOS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",PLUTO TV CINE TERROR
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",PLUTO TV FILMES AÇÃO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",PLUTO TV FILMES NACIONAIS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",PLUTO TV CINE COMEDIA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",PLUTO TV TV DARK MATTER TV BRAZIL
+https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",PLUTO TV INVESTIGACAO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",PLUTO TV RETRO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",PLUTO TV SERIES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",TV BET TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",PLUTO TV MASTERCHEF
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",PLUTO TV JOVEM PAN
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",PLUTO TV MTV ARE YOU THE ONE?
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",PLUTO TV MTV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",PLUTO TV NOSEY CASOS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9b096236af340008da3779/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",PLUTO TV COMEDIA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",PLUTO TV FAILARMY
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",PLUTO TV COMEDY CENTRAL SOUTH PARK
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",PLUTO TV NATUREZA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",PLUTO TV VIDA REAL
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",PLUTO TV MISTERIOS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",PLUTO TV COMEDY CENTRAL
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",PLUTO TV TV TTHE PET COLLECTIVE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",PLUTO TV PARAMOUNT +
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60072798dcf437000755b4f3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",PLUTO TV PAISAGENS POR STINGRAY
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604a8dedbca75b0007b1c753/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="tv aberta",COMEDY CENTRAL FHD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36925
+#EXTINF:0 tvg-id="MTV.uk" group-title="tv aberta",MTV HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36910
+#EXTINF:0 tvg-id="SESCTV.br" group-title="tv aberta",SESC TV
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index.m3u8
+#EXTINF:0 tvg-id="VH1.eur" group-title="tv aberta",VH1  SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/68119
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",MTV 00s HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36900
+#EXTINF:0 tvg-id="MTVLiveHD.uk" group-title="tv aberta",MTV LIVE SD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/40518
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",Music Box Brasil HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/63651
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",TV HIT
+https://rosshow.gcdn.co/streams/1410_287/1080n/index.m3u8
+#EXTINF:0 tvg-id="mega" group-title="tv aberta",MEGA TV
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w820678324.m3u8
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",TV MAXIMA MUSICA
+https://tvdatta.com:3279/hybrid/play.m3u8
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",PLUTO TV MTV BIGGEST POP
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",PLUTO TV KARAOKÊ POOR STINGRAY
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05ad/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",PLUTO TV MTV SPANKIN' NEW
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4da/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 tvg-id="MTV.uk" group-title="tv aberta",MTV
+https://d31ii3fk8fd7mh.cloudfront.net/2aed03ff621247859d786f80119adad9/index_3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",TV BNO
+http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
+#EXTINF:0 tvg-id="Bis.br" group-title="tv aberta",BIS
+http://50.7.34.155:2200/BR/BIS_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="KissTV.uk" group-title="tv aberta",KISS TV
+https://cast.cdnseguro.com:19360/8094/8094.m3u8
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",WEB TV MUSIC
+https://srv5.zcast.com.br/pedro3742/pedro3742/chunklist_w1947850789.m3u8
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",TVUNISAT
+https://stmv1.srvstm.com/jurandir3193/jurandir3193/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",RÁDIO ANTENA 1 FM
+http://a1rj.streams.com.br:7801/sm
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",CATVE2 FM
+https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="tv aberta",CATVE FM
+https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
+
+#EXTINF:0 tvg-id="Combate.br" group-title="ESPORTE",COMBATE HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36986
+#EXTINF:0 tvg-id="ext" group-title="ESPORTE",DISTRO TV HD
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ESPORTE",ESTÁDIO TNT SPORTS 01 HD
+http://glxlmn026c.singularcdn.net.br:80/playout_01/playlist-720p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="ESPORTE",ESTÁDIO TNT SPORTS 02 HD
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ESPORTE",ESTÁDIO TNT SPORTS 03 HD
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ESPORTE",ESTÁDIO TNT SPORTS 04 HD
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ESPORTE",ESTÁDIO TNT SPORTS 05 HD
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ESPORTE",FUTEBOL HD
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="ESPORTE",SPORTV 3 HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36942
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="ESPORTE",SPORTV 2 HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36943
+#EXTINF:0 tvg-id="ext" group-title="ESPORTE",PREMIERE 1 CLUBS HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36948
+#EXTINF:0 tvg-id="FoxSports.it" group-title="ESPORTE",FOX SPORTS HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36970
+#EXTINF:0 tvg-id="FoxSports2HD.mx" group-title="ESPORTE",FOX SPORTS 2 HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36971
+#EXTINF:0 tvg-id="Bandsports.br" group-title="ESPORTE",BAND SPORTS HD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/36989
+
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",ASTERIX E OBELIX
+http://tv.factoryiptv.com:80/cassia123/cassia1234/70389
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",ALADIN
+http://tv.factoryiptv.com:80/cassia123/cassia1234/59753
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",AS TARTARUGAS NINJAS
+http://tv.factoryiptv.com:80/cassia123/cassia1234/59745
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",BOB ESPONJA
+http://tv.factoryiptv.com:80/cassia123/cassia1234/59746
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",BEN 10
+http://tv.factoryiptv.com:80/cassia123/cassia1234/59747
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",BIBO PAI E BOB FILHO
+http://tv.factoryiptv.com:80/cassia123/cassia1234/70112
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",BICUDO O LOBISOME
+http://tv.factoryiptv.com:80/cassia123/cassia1234/70113
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",BOB ZOOM
+http://tv.factoryiptv.com:80/cassia123/cassia1234/40745
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",BILY E MANDY
+http://tv.factoryiptv.com:80/cassia123/cassia1234/70386
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",CARRTOON GOSPEL
+http://tv.factoryiptv.com:80/cassia123/cassia1234/39780
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",CHARLIE E LOLA
+http://tv.factoryiptv.com:80/cassia123/cassia1234/39579
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",COCORICO
+http://tv.factoryiptv.com:80/cassia123/cassia1234/39582
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",CHAVES
+http://tv.factoryiptv.com:80/cassia123/cassia1234/39762
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",CHAPOLIN COLORADO
+http://tv.factoryiptv.com:80/cassia123/cassia1234/59743
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",CÃO CORAGEM
+http://tv.factoryiptv.com:80/cassia123/cassia1234/59744
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",CÃOZINHOS DO CANIL
+http://tv.factoryiptv.com:80/cassia123/cassia1234/70399
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",CAVERNA DO DRAGÃO
+http://tv.factoryiptv.com:80/cassia123/cassia1234/59748
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",CASCÃO
+http://tv.factoryiptv.com:80/cassia123/cassia1234/61884
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",CAVALO DE FOGO
+http://tv.factoryiptv.com:80/cassia123/cassia1234/62272
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",DENIS O PIMENTINHA
+http://tv.factoryiptv.com:80/cassia123/cassia1234/57343
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",DESENHOS DISNEY
+http://tv.factoryiptv.com:80/cassia123/cassia1234/59102
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",DRAGON BALL Z
+http://tv.factoryiptv.com:80/cassia123/cassia1234/57682
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",DRAGON BALL SUPER
+http://tv.factoryiptv.com:80/cassia123/cassia1234/58092
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",DRAGON BALL
+http://tv.factoryiptv.com:80/cassia123/cassia1234/58094
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",DIGIMON
+http://tv.factoryiptv.com:80/cassia123/cassia1234/59101
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",DINO BOY E O VALE PERDIDO
+http://tv.factoryiptv.com:80/cassia123/cassia1234/70108
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",DALMATAS
+http://tv.factoryiptv.com:80/cassia123/cassia1234/70109
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",DUCKTALES
+http://tv.factoryiptv.com:80/cassia123/cassia1234/70114
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",DON QUIXOTE
+http://tv.factoryiptv.com:80/cassia123/cassia1234/70390
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",FAMILIA URSO
+http://tv.factoryiptv.com:80/cassia123/cassia1234/70391
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",FANTASTICO MUNDO DE BOBBYS
+http://tv.factoryiptv.com:80/cassia123/cassia1234/63205
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",FRANKENSTEI JUNIOR
+http://tv.factoryiptv.com:80/cassia123/cassia1234/70398
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",FORMIGA  ATÔMICA
+http://tv.factoryiptv.com:80/cassia123/cassia1234/57681
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",GALINHA PINTADINHA
+http://tv.factoryiptv.com:80/cassia123/cassia1234/39570
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",GARFIELD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/39573
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",GUARDIÕES DA GALÁXIA
+http://tv.factoryiptv.com:80/cassia123/cassia1234/57342
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",HOMEM DE FERRO
+http://tv.factoryiptv.com:80/cassia123/cassia1234/57340
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",HÉRCULES
+http://tv.factoryiptv.com:80/cassia123/cassia1234/65252
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",HE MAN
+http://tv.factoryiptv.com:80/cassia123/cassia1234/39776
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",HE MAN
+http://tv.factoryiptv.com:80/cassia123/cassia1234/53051
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",HISTÓRIAS DA DISNEY
+http://tv.factoryiptv.com:80/cassia123/cassia1234/56468
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",INCRIVEL HULK
+http://tv.factoryiptv.com:80/cassia123/cassia1234/56623
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",JASPION E JONNY QUEST
+http://tv.factoryiptv.com:80/cassia123/cassia1234/62273
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",JACK CHAN
+http://tv.factoryiptv.com:80/cassia123/cassia1234/63197
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",JIRAYA O INCRIVEL NINJA
+http://tv.factoryiptv.com:80/cassia123/cassia1234/63198
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",LADY BUG
+http://tv.factoryiptv.com:80/cassia123/cassia1234/70577
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",LONEY TONES
+http://tv.factoryiptv.com:80/cassia123/cassia1234/39575
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",LIGEIRINHO
+http://tv.factoryiptv.com:80/cassia123/cassia1234/41893
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",LULUZINHA
+http://tv.factoryiptv.com:80/cassia123/cassia1234/63200
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",LULA LELA
+http://tv.factoryiptv.com:80/cassia123/cassia1234/70300
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",MANDA CHUVA
+http://tv.factoryiptv.com:80/cassia123/cassia1234/41894
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",MASHA E URSO
+http://tv.factoryiptv.com:80/cassia123/cassia1234/61887
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",MENINAS SUPER PODEROSAS
+http://tv.factoryiptv.com:80/cassia123/cassia1234/59750
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",MEDABOTS
+http://tv.factoryiptv.com:80/cassia123/cassia1234/63201
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",MEGA MAN
+http://tv.factoryiptv.com:80/cassia123/cassia1234/63202
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",MR. BEAN
+http://tv.factoryiptv.com:80/cassia123/cassia1234/63204
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",MR. MAGOO
+http://tv.factoryiptv.com:80/cassia123/cassia1234/70392
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",MICKEY DONALD
+http://tv.factoryiptv.com:80/cassia123/cassia1234/70400
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",MORTAL KOMBAT
+http://tv.factoryiptv.com:80/cassia123/cassia1234/63203
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",NARUTO
+http://tv.factoryiptv.com:80/cassia123/cassia1234/56465
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",OS PADRINHOS MAGICOS
+http://tv.factoryiptv.com:80/cassia123/cassia1234/39574
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",O INCRIVEL MUNDO DE GUMBALL
+http://tv.factoryiptv.com:80/cassia123/cassia1234/39774
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",OS CAVALEIROS DO ZODIACO
+http://tv.factoryiptv.com:80/cassia123/cassia1234/57344
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",OS FLINTSTONES
+http://tv.factoryiptv.com:80/cassia123/cassia1234/58095
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",OS HERCULOIDES
+http://tv.factoryiptv.com:80/cassia123/cassia1234/70383
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",PANTERA COM DE ROSA
+http://tv.factoryiptv.com:80/cassia123/cassia1234/39576
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",PATATI PATATA
+http://tv.factoryiptv.com:80/cassia123/cassia1234/39781
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",PADRINHOS MAGICOS E PICA-PAU
+http://tv.factoryiptv.com:80/cassia123/cassia1234/62275
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",PATRULHA CANINA
+http://tv.factoryiptv.com:80/cassia123/cassia1234/63074
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",PAPA LEGUAS
+http://tv.factoryiptv.com:80/cassia123/cassia1234/63208
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",PHINEAS E FERB
+http://tv.factoryiptv.com:80/cassia123/cassia1234/63209
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",PINK E CEREBRO
+http://tv.factoryiptv.com:80/cassia123/cassia1234/63210
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",PICA-PAU E TOM E JERRY
+http://tv.factoryiptv.com:80/cassia123/cassia1234/62276
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",PICA-PAU
+http://tv.factoryiptv.com:80/cassia123/cassia1234/53025
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",POCOYO
+http://tv.factoryiptv.com:80/cassia123/cassia1234/61888
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",POPEYE
+http://tv.factoryiptv.com:80/cassia123/cassia1234/39777
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",POKEMON
+http://tv.factoryiptv.com:80/cassia123/cassia1234/63211
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",POWER RANGER
+http://tv.factoryiptv.com:80/cassia123/cassia1234/69335
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",PERNALONGA
+http://tv.factoryiptv.com:80/cassia123/cassia1234/57341
+#EXTINF:0 tvg-id="RedlightHD.ero" group-title="DESEHOSANIMADOS",PEPPA PIG
+http://tv.factoryiptv.com:80/cassia123/cassia1234/39572
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",PEPE LEGAL
+http://tv.factoryiptv.com:80/cassia123/cassia1234/41897
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",PJ MASKS
+http://tv.factoryiptv.com:80/cassia123/cassia1234/39775
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",RECRUTA ZERO
+http://tv.factoryiptv.com:80/cassia123/cassia1234/70396
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",OS SIMPSONS
+http://tv.factoryiptv.com:80/cassia123/cassia1234/63174
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",SITIO DO PICA-PPAU AMARELO
+http://tv.factoryiptv.com:80/cassia123/cassia1234/70393
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",SPACE GHOST
+http://tv.factoryiptv.com:80/cassia123/cassia1234/70395
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",SUPER WINGS
+http://tv.factoryiptv.com:80/cassia123/cassia1234/73039
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",SUPER CHOQUE
+http://tv.factoryiptv.com:80/cassia123/cassia1234/65264
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",TELETUBBIES
+http://tv.factoryiptv.com:80/cassia123/cassia1234/39583
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",TURMA DA MONICA
+http://tv.factoryiptv.com:80/cassia123/cassia1234/39571
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",X-MAN
+http://tv.factoryiptv.com:80/cassia123/cassia1234/56470
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",ZÉ BUSCAPÉ
+http://tv.factoryiptv.com:80/cassia123/cassia1234/70116
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",ZIG E SHARKO
+http://tv.factoryiptv.com:80/cassia123/cassia1234/70385
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",3 PALAVRINHAS 1
+http://tv.factoryiptv.com:80/cassia123/cassia1234/61886
+#EXTINF:0 tvg-id="ext" group-title="DESEHOSANIMADOS",3 PALAVRINHAS 2
+http://tv.factoryiptv.com:80/cassia123/cassia1234/62537
+
+#EXTINF:0 tvg-id="ext" group-title="Rádios | Temáticas",RÁDIO Anos 80
+https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios | Temáticas",RÁDIO Anos 90
+https://stream.vagalume.fm/hls/1478022035646498/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios | Temáticas",RÁDIO Anos 2000
+https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios | Temáticas",RÁDIO Pop Nacional
+https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios | Temáticas",RÁDIO Pop Rock Nacional
+https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios | Temáticas",RÁDIO Rádio J-Pop
+https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios | Temáticas",RÁDIO Românticas
+https://stream.vagalume.fm/hls/1470155219129532/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios | Temáticas",RÁDIO R&B
+https://stream.vagalume.fm/hls/1467745876337223/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios | Temáticas",RÁDIO K-Pop
+https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios | Temáticas",RÁDIO Folk
+https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios | Temáticas",RÁDIO Gospel Internacional
+https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios | Temáticas",RÁDIO Gospel
+https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios | Temáticas",RÁDIO Reggae
+https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios | Temáticas",RÁDIO Reggae
+https://servidor.geracaoradios.com/radio/8200/stream
+#EXTINF:0 tvg-id="ext" group-title="Rádios | Temáticas",RÁDIO Rock
+https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios | Temáticas",RÁDIO Forró
+https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios | Temáticas",RÁDIO Pop
+https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios | Temáticas",RÁDIO Latina
+https://stream.vagalume.fm/hls/1478199774246251/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios | Temáticas",RÁDIO Eletrônica
+https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios | Temáticas",RÁDIO Hip-Hop
+https://stream.vagalume.fm/hls/1470155107337444/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios | Temáticas",RÁDIO Pop Rock
+https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios | Temáticas",RÁDIO Funk
+https://stream.vagalume.fm/hls/1470154922349875/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios | Temáticas",RÁDIO Pagode
+https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios | Temáticas",RÁDIO Rock
+https://stream.vagalume.fm/hls/1464201608479108132/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios | Temáticas",RÁDIO MPB
+https://stream.vagalume.fm/hls/1470154983100588/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios | Temáticas",RÁDIO Sertanejo
+https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios | Temáticas",RÁDIO Sertanejo Romântico
+https://stream.vagalume.fm/hls/1499715905423293/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios | Temáticas",RÁDIO MIX SP
+https://21933.live.streamtheworld.com/MIXFM_SAOPAULOAAC_SC?dist=mix-web-player-radio-ao-vivo
+#EXTINF:0 tvg-id="ext" group-title="Rádios | Temáticas",RÁDIO JOVEM PAM SP FM
+https://16823.live.streamtheworld.com/JP_SP_FMAAC_SC
+#EXTINF:0 tvg-id="ext" group-title="Rádios | Temáticas",RÁDIO MIX RJ FM
+https://24923.live.streamtheworld.com/MIXRIOAAC_SC?dist=MIX-PLAYER&v=1636819849221
+
+#EXTINF:0 tvg-id="ext" group-title="FAZENDA13",A FAZENDA 13 CAM PRINCIPAL
+http://tv.factoryiptv.com:80/cassia123/cassia1234/82359
+#EXTINF:0 tvg-id="ext" group-title="FAZENDA13",A FAZENDA SINAL 8
+http://tv.factoryiptv.com:80/cassia123/cassia1234/82395
+#EXTINF:0 tvg-id="ext" group-title="FAZENDA13",A FAZENDA SINAL 7
+http://tv.factoryiptv.com:80/cassia123/cassia1234/82394
+#EXTINF:0 tvg-id="ext" group-title="FAZENDA13",A FAZENDA SINAL 6
+http://tv.factoryiptv.com:80/cassia123/cassia1234/82393
+#EXTINF:0 tvg-id="ext" group-title="FAZENDA13",A FAZENDA SINAL 5
+http://tv.factoryiptv.com:80/cassia123/cassia1234/82392
+#EXTINF:0 tvg-id="ext" group-title="FAZENDA13",A FAZENDA SINAL 4
+http://tv.factoryiptv.com:80/cassia123/cassia1234/82391
+#EXTINF:0 tvg-id="ext" group-title="FAZENDA13",A FAZENDA SINAL 3
+http://tv.factoryiptv.com:80/cassia123/cassia1234/82390
+#EXTINF:0 tvg-id="ext" group-title="FAZENDA13",A FAZENDA SINAL 2
+http://tv.factoryiptv.com:80/cassia123/cassia1234/82389
+#EXTINF:0 tvg-id="ext" group-title="FAZENDA13",A FAZENDA SINAL 1
+http://tv.factoryiptv.com:80/cassia123/cassia1234/82388
+#EXTINF:0 tvg-id="ext" group-title="FAZENDA13",A FAZENDA 13 CAMERA 9  S
+http://tv.factoryiptv.com:80/cassia123/cassia1234/82517
+#EXTINF:0 tvg-id="ext" group-title="FAZENDA13",A FAZENDA 13 CAMERA 8  S
+http://tv.factoryiptv.com:80/cassia123/cassia1234/82516
+#EXTINF:0 tvg-id="ext" group-title="FAZENDA13",A FAZENDA 13 CAMERA 7  S
+http://tv.factoryiptv.com:80/cassia123/cassia1234/82515
+#EXTINF:0 tvg-id="ext" group-title="FAZENDA13",A FAZENDA 13 CAMERA 6  S
+http://tv.factoryiptv.com:80/cassia123/cassia1234/82514
+#EXTINF:0 tvg-id="ext" group-title="FAZENDA13",A FAZENDA 13 CAMERA 5  S
+http://tv.factoryiptv.com:80/cassia123/cassia1234/82513
+#EXTINF:0 tvg-id="ext" group-title="FAZENDA13",A FAZENDA 13 CAMERA 4  S
+http://tv.factoryiptv.com:80/cassia123/cassia1234/82415
+#EXTINF:0 tvg-id="ext" group-title="FAZENDA13",A FAZENDA 13 CAMERA 3  S
+http://tv.factoryiptv.com:80/cassia123/cassia1234/82414
+#EXTINF:0 tvg-id="ext" group-title="FAZENDA13",FAZENDA 13 CAMERA 2  S
+http://tv.factoryiptv.com:80/cassia123/cassia1234/82413
+#EXTINF:0 tvg-id="ext" group-title="FAZENDA13",A FAZENDA 13 CAMERA 1  S
+http://tv.factoryiptv.com:80/cassia123/cassia1234/82376
+#EXTINF:0 tvg-id="ext" group-title="FAZENDA13",A FAZENDA 13 CAMERA 9  J
+http://tv.factoryiptv.com:80/cassia123/cassia1234/82396
+#EXTINF:0 tvg-id="ext" group-title="FAZENDA13",A FAZENDA 13 CAMERA 8  J
+http://tv.factoryiptv.com:80/cassia123/cassia1234/82423
+#EXTINF:0 tvg-id="ext" group-title="FAZENDA13",A FAZENDA 13 CAMERA 7  J
+http://tv.factoryiptv.com:80/cassia123/cassia1234/82422
+#EXTINF:0 tvg-id="ext" group-title="FAZENDA13",A FAZENDA 13 CAMERA 6  J
+http://tv.factoryiptv.com:80/cassia123/cassia1234/82421
+#EXTINF:0 tvg-id="ext" group-title="FAZENDA13",A FAZENDA 13 CAMERA 5  J
+http://tv.factoryiptv.com:80/cassia123/cassia1234/82420
+#EXTINF:0 tvg-id="ext" group-title="FAZENDA13",A FAZENDA 13 CAMERA 4  J
+http://tv.factoryiptv.com:80/cassia123/cassia1234/82419
+#EXTINF:0 tvg-id="ext" group-title="FAZENDA13",A FAZENDA 13 CAMERA 3  J
+http://tv.factoryiptv.com:80/cassia123/cassia1234/82418
+#EXTINF:0 tvg-id="ext" group-title="FAZENDA13",A FAZENDA 13 CAMERA 2  J
+http://tv.factoryiptv.com:80/cassia123/cassia1234/82417
+#EXTINF:0 tvg-id="ext" group-title="FAZENDA13",A FAZENDA 13 CAMERA 1  J
+http://tv.factoryiptv.com:80/cassia123/cassia1234/82416
+
+#EXTINF:0 tvg-id="ext" group-title="CAMERA",CAMERA BARRA DA TIJUCA
+http://tv.factoryiptv.com:80/cassia123/cassia1234/64758
+
