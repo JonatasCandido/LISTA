@@ -1,0 +1,94 @@
+﻿<tv generator-info-name="TV DIGITAL SBL" generator-info-url="http://painel.tvdigitalsbl.net:80/">
+<channel id="">
+<display-name>Globo Brasilia | FHD</display-name>
+<icon src="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png"/>
+</channel>
+<channel id="">
+<display-name>Globo Campinas | FHD</display-name>
+<icon src="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png"/>
+</channel>
+<channel id="">
+<display-name>Globo SJRP</display-name>
+<icon src="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png"/>
+</channel>
+<channel id="">
+<display-name>Globo Belem</display-name>
+<icon src="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png"/>
+</channel>
+<channel id="">
+<display-name>Globo RGN</display-name>
+<icon src="https://i.ibb.co/2FyNXdH/200px-Logotipo-da-TV-Globo-Internacional.png"/>
+</channel>
+<channel id="">
+<display-name>Band Bahia</display-name>
+<icon src="http://playhdtv.tk/logs/band.jpg"/>
+</channel>
+<channel id="">
+<display-name>SBT MG | HD</display-name>
+<icon src="http://playhdtv.tk/logs/sbt.jpg"/>
+</channel>
+<channel id="">
+<display-name>Record Sergipe | HD</display-name>
+<icon src="http://playhdtv.tk/logs/record.jpg"/>
+</channel>
+<channel id="">
+<display-name>Record MG</display-name>
+<icon src="http://playhdtv.tk/logs/record.jpg"/>
+</channel>
+<channel id="">
+<display-name>HBO MUNDI</display-name>
+<icon src="https://i.ibb.co/S0Xpypm/hbomundi.jpg"/>
+</channel>
+<channel id="">
+<display-name>HBO MUNDI | HD</display-name>
+<icon src="https://i.ibb.co/S0Xpypm/hbomundi.jpg"/>
+</channel>
+<channel id="">
+<display-name>HBO Mundi | HD - LEG</display-name>
+<icon src="https://i.ibb.co/S0Xpypm/hbomundi.jpg"/>
+</channel>
+<channel id="">
+<display-name>HBO MUNDI | FHD</display-name>
+<icon src="https://i.ibb.co/S0Xpypm/hbomundi.jpg"/>
+</channel>
+<channel id="">
+<display-name>HBO Mundi | FHD - LEG</display-name>
+<icon src="https://i.ibb.co/S0Xpypm/hbomundi.jpg"/>
+</channel>
+<channel id="">
+<display-name>HBO XTREME</display-name>
+<icon src="https://i.ibb.co/NN3ytF3/hboxtremeb.png"/>
+</channel>
+<channel id="">
+<display-name>HBO Xtream | HD - LEG</display-name>
+<icon src="https://i.ibb.co/NN3ytF3/hboxtremeb.png"/>
+</channel>
+<channel id="">
+<display-name>HBO Xtream | FHD - LEG</display-name>
+<icon src="https://i.ibb.co/NN3ytF3/hboxtremeb.png"/>
+</channel>
+<channel id="">
+<display-name>TBS</display-name>
+<icon src="http://playhdtv.tk/logs/tbs.jpg"/>
+</channel>
+<channel id="">
+<display-name>TruTV | HD</display-name>
+<icon src="http://playhdtv.tk/logs/trutv.jpg"/>
+</channel>
+<channel id="">
+<display-name>HGTV | HD</display-name>
+<icon src="https://i.ibb.co/N9bzvZ3/1bf1d4bf0ed8c37e1c8efc5b17401467.jpg"/>
+</channel>
+<channel id="">
+<display-name>HGTV | FHD</display-name>
+<icon src="https://i.ibb.co/N9bzvZ3/1bf1d4bf0ed8c37e1c8efc5b17401467.jpg"/>
+</channel>
+<channel id="">
+<display-name>Playkids</display-name>
+<icon src="https://muppetcast.com/wp-content/uploads/2016/06/LogoPlayKids.jpg"/>
+</channel>
+<channel id="GNT | HD">
+<display-name>GNT | HD</display-name>
+<icon src="http://playhdtv.tk/logs/gnt.jpg"/>
+</channel>
+</tv>
