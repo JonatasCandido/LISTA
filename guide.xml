@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AMC">
+    <display-name lang="pt">AMC</display-name>
+    <icon src="../canais/1613731238.gif|../canais/1601463429.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="pt">Animal Planet</display-name>
+    <icon src="../canais/1605934182.gif|../canais/recordtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Arte 1">
+    <display-name lang="pt">Arte 1</display-name>
+    <icon src="../canais/tvcamara-mossoro.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+    <icon src="../canais/1608548194.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BabyTV">
+    <display-name lang="pt">BabyTV</display-name>
+    <icon src="../canais/1619830069.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Bah!">
+    <display-name lang="pt">Bah!</display-name>
+    <icon src="../canais/ngt.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Band">
+    <display-name lang="pt">Band</display-name>
+    <icon src="../canais/1608741847.gif|../canais/cultura.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+</tv>
